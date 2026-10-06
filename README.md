@@ -6,7 +6,7 @@ Senior full-stack engineer with 8+ years building and running production web sof
 - **Full-stack product work:** TypeScript, React, Node, Rails
 - **Backend & APIs:** service design, databases, distributed systems
 - **Infrastructure:** AWS, CI/CD, keeping things boring and reliable in production
-- **AI-assisted development:** structured Claude Code workflows with human review built in, not vibe coding
+- **AI-assisted development:** Claude Code workflows that plan before they build, with a human review at every step
 
 **Best fit:** product teams that want a senior engineer who can own a problem end to end: understand it, plan it, ship it, and leave the codebase better than they found it.
 
