@@ -12,7 +12,7 @@ Senior full-stack engineer with 8+ years building and running production web sof
 
 ### Featured
 - **[ticket2pr](https://github.com/c4rlz/ticket2pr):** turns a ticket into a plan you review, then a draft PR. A Claude Code workflow with a human checkpoint before any code gets written.
-- **[Garden Within](https://github.com/c4rlz/garden-within):** a cycle-aware journaling app I use every day. Next.js, TypeScript, Prisma and Postgres, live on Vercel.
+- **[Inner Seasons](https://github.com/c4rlz/inner-seasons):** a cycle-aware journaling app I use every day. Next.js, TypeScript, Prisma and Postgres, live on Vercel.
 
 ### Get in touch
 Available for contracts. 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/carly-ewasiuk/).
