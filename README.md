@@ -1,6 +1,6 @@
 # Hi, I'm Carly 👋
 
-Senior full-stack engineer with 8+ years building and running production web software, most recently as a Senior Software Developer at Moz. I'm now taking on contract work through **[Evergreen Software Systems](https://evergreen-software-consulting.netlify.app/)**, remote from Vancouver Island, BC.
+Senior full-stack engineer with 8+ years building and running production web software, most recently as a Senior Software Developer at Moz. I'm now taking on contract work through **[Evergreen Software Systems](https://evergreen-software-systems.netlify.app/)**, remote from Vancouver Island, BC.
 
 **What I'm good at**
 - **Full-stack product work:** TypeScript, React, Node, Rails
