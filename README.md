@@ -1,6 +1,6 @@
 # Hi, I'm Carly 👋
 
-Senior full-stack engineer with 8+ years building and running production web software, most recently as a Senior Software Developer at Moz. I'm currently exploring opportunities to work with teams building meaningful, technically interesting products, while also growing my independent consulting practice, **[Evergreen Software Systems](https://evergreen-software-systems.netlify.app/)**. Based on Vancouver Island, BC.
+Senior full-stack engineer with 8+ years building and running production web software, most recently as a Senior Software Developer at Moz. I'm currently exploring opportunities to work with teams building meaningful, technically interesting products, while also growing my independent consulting practice, **[Evergreen Software](https://evergreen-software-systems.netlify.app/)**, part of Sword Fern Studio. Based on Vancouver Island, BC.
 
 **What I'm good at**
 - **Full-stack product work:** TypeScript, React, Node, Rails
@@ -14,7 +14,7 @@ Senior full-stack engineer with 8+ years building and running production web sof
 - **[ticket2pr](https://github.com/c4rlz/ticket2pr):** turns a ticket into a plan you review, then a draft PR. A Claude Code workflow with a human checkpoint before any code gets written.
 - **[Inner Seasons](https://github.com/c4rlz/inner-seasons):** a cycle-aware journaling app I use every day. Next.js, TypeScript, Prisma and Postgres, live on Vercel.
 - **[The Garden Within](https://github.com/c4rlz/gardenwithin):** the site for [gardenwithin.ca](https://gardenwithin.ca), moved off Squarespace to Astro. Posts are written in Pages CMS without touching code, and a GitHub Action names and resizes photos on every save.
-- **[Evergreen Software Systems](https://github.com/c4rlz/evergreen-software-systems):** my consulting site. An Astro one-pager in plain CSS with no client-side JavaScript.
+- **[Evergreen Software](https://github.com/c4rlz/evergreen-software-systems):** my consulting site. An Astro one-pager in plain CSS with no client-side JavaScript.
 
 ### Get in touch
 Open to the right full-time and contract opportunities. 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/carly-ewasiuk/).
