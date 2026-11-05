@@ -1,6 +1,6 @@
 # Hi, I'm Carly 👋
 
-Senior full-stack engineer with 8+ years building and running production web software, most recently as a Senior Software Developer at Moz. I'm currently exploring opportunities to work with teams building meaningful, technically interesting products, while also growing my independent consulting practice, **Sword Fern Studios**. Based on Vancouver Island, BC.
+Senior full-stack engineer with 8+ years building and running production web software, most recently as a Senior Software Developer at Moz. I'm currently exploring opportunities to work with teams building meaningful, technically interesting products, while also growing my independent consulting practice, **[Sword Fern Studios](https://swordfernstudios.ca)**. Based on Vancouver Island, BC.
 
 **What I'm good at**
 - **Full-stack product work:** TypeScript, React, Node, Rails
