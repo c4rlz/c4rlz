@@ -14,7 +14,7 @@ I'm currently exploring opportunities to work with teams building meaningful, te
 
 ### Featured
 - **[ticket2pr](https://github.com/c4rlz/ticket2pr):** turns a ticket into a plan you review, then a draft PR. A Claude Code workflow with a human checkpoint before any code gets written.
-- **[Inner Seasons](https://github.com/c4rlz/inner-seasons):** a cycle-aware journaling app I use every day. Next.js, TypeScript, Prisma and Postgres, live on Vercel. <!-- Carly: one line on why you built this -->
+- **[Inner Seasons](https://github.com/c4rlz/inner-seasons):** a cycle-aware journaling app I use every day. Next.js, TypeScript, Prisma and Postgres, live on Vercel. I built it to keep track of my own cycles and analyze them over time, so I can fine-tune my life.
 - **[The Garden Within](https://github.com/c4rlz/gardenwithin):** the site for [gardenwithin.ca](https://gardenwithin.ca), moved off Squarespace to Astro. Posts are written in Pages CMS without touching code, and a GitHub Action names and resizes photos on every save.
 - **[Sword Fern Studios](https://github.com/c4rlz/sword-fern-studios):** my consulting site. An Astro one-pager laid out like a field guide, with each offering as a specimen.
 
